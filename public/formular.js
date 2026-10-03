@@ -1,5 +1,5 @@
 // Baut aus dem Formular eine E-Mail. Keine Daten werden an einen Server gesendet.
-var EMPFAENGER = "kontakt@roksit.de";
+var EMPFAENGER = "bachnakova@roksit.de";
 
 document.getElementById("terminForm").addEventListener("submit", function (e) {
   e.preventDefault();
